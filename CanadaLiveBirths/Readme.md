@@ -10,7 +10,7 @@ Employ Jupyter Notebook to execute Meta Prophet using Python to estimate the pre
 ## Analysis
 
 ### Forecast
-Canadian live births between 2012 and 2022 follow a consistent seasonal pattern each year
+Canadian live births between 2012 and 2022 follow a consistent seasonal pattern each year. The pattern repeats 2023-2025.
 ![image](https://github.com/gitgizmo/TimeSeriesAnalysis/assets/16417298/9baa8bcc-cd80-48fa-9805-606398717a63)
 
 
